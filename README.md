@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Le Truong Son
+🎓 Embedded Systems student | 💻 Passionate about IoT, TinyML, and low-level programming  
+📍 From Vietnam | 📬 truongson20061999@gmail.com
 
-<!--
-**SonLTS/SonLTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Programming: C, Python, Verilog, Java
+- Tools: STM32CubeIDE, Arduino IDE, ModelSim, Git
+- Hardware: STM32, Arduino, FPGA
+- Others: OpenCV, Machine Learning (basic), TinyML
 
-Here are some ideas to get you started:
+## 🔨 Projects
+- **📸 ANPR - Automatic Number Plate Recognition**  
+  Python + OpenCV + Tesseract OCR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🧠 TinyML Anomaly Detection**  
+  Monitor fan speed + temperature using STM32 + Edge Impulse
+
